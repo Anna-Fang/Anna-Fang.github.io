@@ -1,7 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #1E1E24;}
+    background-color: black;
+}
 nav ul, footer ul {
     font-family:'Coronet', 'Georgia', 'Sans-Serif';
     padding: 0px;
