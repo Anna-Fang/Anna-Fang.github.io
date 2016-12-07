@@ -20,9 +20,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 70px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #FFF;
+    color: blue;
      
 }
 p {
