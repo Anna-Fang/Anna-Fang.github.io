@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #1E1E24; 
+    Background: url("http://cdn.wallpapersafari.com/17/87/5VgFdK.jpg") no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 nav ul, footer ul {
     font-family:'Coronet', 'Georgia', 'Sans-Serif';
