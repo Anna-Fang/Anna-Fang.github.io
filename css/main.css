@@ -28,8 +28,7 @@ h1 {
     font-size: 50px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgba(255, 255, 255, 0.75);  
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/92/9a/69/929a693f2c2c2eeea83bba727f7265b2.jpg"); 
-    background-position: bottom center; }
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
