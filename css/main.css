@@ -5,8 +5,7 @@ body {
     Background: url("http://cdn.wallpapersafari.com/17/87/5VgFdK.jpg") no-repeat top center;
     background-size: contain;
     background-attachment: fixed;
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/92/9a/69/929a693f2c2c2eeea83bba727f7265b2.jpg"); 
-    background-position: bottom center; 
+    
 }
 nav ul, footer ul {
     font-family:'Coronet', 'Georgia', 'Sans-Serif';
