@@ -35,6 +35,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgba(255, 255, 255, 0.75);  }
 li {
+    font-size: 40px; 
     color: rgba(255, 255, 255, 0.75);     
 } 
     
