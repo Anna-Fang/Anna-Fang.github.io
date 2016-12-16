@@ -6,6 +6,7 @@ body {
     background-size: contain;
     background-attachment: fixed;
     
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -68,5 +69,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    
+}
+.border{
+    border-style: dashed; 
+    
     
 }
