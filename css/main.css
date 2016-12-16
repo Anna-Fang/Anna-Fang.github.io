@@ -40,10 +40,14 @@ li {
     color: rgba(255, 255, 255, 0.75);     
 } 
 .main {
+    width: 500px;
+    height: 1000px
     background: url("http://www.motox1wallpaper.com/wp-content/1HD/Heart/FTP2/1280x720/Kingdom%20hearts%20wallpaper%201280x720.jpg); 
     padding: 10px; 
 }
 .content {
+    width: 500px;
+    height: 1000px;
     background: url("http://wallpapercave.com/wp/3gTiYU0.jpg); 
     padding: 10px 
     
