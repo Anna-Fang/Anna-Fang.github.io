@@ -41,9 +41,13 @@ li {
 .main {
     background: url("http://www.motox1wallpaper.com/wp-content/1HD/Heart/FTP2/1280x720/Kingdom%20hearts%20wallpaper%201280x720.jpg); 
     padding: 10px; 
+}
+.content {
+    background: url("http://wallpapercave.com/wp/3gTiYU0.jpg); 
+    padding: 10px 
     
     
-} 
+}
     
 p {
     font-size: 1.5em;
