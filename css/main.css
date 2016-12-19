@@ -5,7 +5,8 @@ body {
     Background: url("http://cdn.wallpapersafari.com/17/87/5VgFdK.jpg") no-repeat top center;
     background-size: contain;
     background-attachment: fixed;
-    
+    color: rgba(255, 255, 255, 0.75);
+        
     
 }
 nav ul, footer ul {
@@ -43,12 +44,13 @@ li {
     width: 500px;
     height: 1000px;
     background: url("http://www.motox1wallpaper.com/wp-content/1HD/Heart/FTP2/1280x720/Kingdom%20hearts%20wallpaper%201280x720.jpg); 
-    padding: 0px; 
+    padding: 5px; 
 }
 div.content {
     width: 50%;
     height: 50%;
-    padding: 0px ;
+    padding: 5px;
+    position: static; 
     
     
 }
