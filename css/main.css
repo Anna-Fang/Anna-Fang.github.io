@@ -50,18 +50,17 @@ li {
     background: url("http://www.motox1wallpaper.com/wp-content/1HD/Heart/FTP2/1280x720/Kingdom%20hearts%20wallpaper%201280x720.jpg); 
     padding: 5px; 
 }
+.fiora {
+    width: 50%; 
+    height: 50%; 
+    
+} 
 div.content {
     width: 50%;
     height: 50%;
     padding: 5px;
     
 }
-.fiora {
-    width: 50%; 
-    height: 50%; 
-    
-} 
-    
 p {
     font-size: 1.5em;
     line-height: 1.4em;
