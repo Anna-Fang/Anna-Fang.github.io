@@ -41,7 +41,8 @@ h2 {
     color: rgba(255, 255, 255, 0.75);  }
 li {
     font-size: 35px; 
-    color: rgba(255, 255, 255, 0.75);     
+    color: rgba(255, 255, 255, 0.75);  
+    padding: 5px; 
 } 
 .main {
     width: 500px;
@@ -61,7 +62,7 @@ p {
     line-height: 1.4em;
     color: rgba(255, 255, 255, 0.75);
     font-family: 'Pontano Sans', sans-serif;
-    font-size: 50px;
+    
            
 }
 footer {
