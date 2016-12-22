@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #1E1E24; 
-    background: url(".../38020274-wallpaper-music.jpg") no-repeat top center;
+    background: url(.../38020274-wallpaper-music.jpg") no-repeat top center;
     background-size: contain;
     background-attachment: fixed;
     color: rgba(255, 255, 255, 0.75);    
