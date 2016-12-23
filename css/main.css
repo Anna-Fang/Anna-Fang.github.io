@@ -69,6 +69,12 @@ div.content {
     padding: 5px;
     
 }
+.flute {
+    width: 500px;
+    height: 1000px;
+    background: url("http://www.anderson-group.com/flute/images/flute_sheet_music.jpg);     
+    
+}
 p {
     font-size: 29px; 
     line-height: 1.4em;
