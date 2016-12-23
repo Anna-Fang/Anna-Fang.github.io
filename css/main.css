@@ -33,7 +33,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgba(255, 255, 255, 0.75);
     padding: 30px; 
-    
+    border-style: dashed;
 }
 h2 {
     font-size: 25px;
