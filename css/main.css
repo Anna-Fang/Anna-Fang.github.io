@@ -35,7 +35,7 @@ h1 {
     padding: 30px; 
     border-style: dashed; 
     border-color: blue;
-    text-align: center; 
+    
 }
 h2 {
     font-size: 25px;
@@ -61,6 +61,7 @@ li {
     height: 500px; 
     background: url("http://l7.alamy.com/zooms/1f12783ea3314511abc1eabe1d27702e/alto-saxophone-lying-on-a-grand-piano-bak17x.jpg); 
     position: static;
+    border: blue; 
 } 
 div.content {
     width: 500px; 
