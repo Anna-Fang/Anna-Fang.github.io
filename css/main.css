@@ -4,7 +4,7 @@ body {
     background-color: #1E1E24; 
     background: url("../38020274-wallpaper-music.jpg") ; 
     background-size: contain;
-    background-attachment: fixed;
+    background-attachment: relative;
     color: rgba(255, 255, 255, 0.75);    
     
     
