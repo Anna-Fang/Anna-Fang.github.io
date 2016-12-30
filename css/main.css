@@ -44,6 +44,7 @@ h2 {
     padding: 20px; 
     border-style: dashed; 
     border-color: red; 
+    position: absolute; 
 }
 li {
     font-size: 35px; 
