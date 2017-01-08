@@ -59,6 +59,10 @@ li {
     height: 1000px;
     background: url("https://i.ytimg.com/vi/2IgYGGgbN-g/maxresdefault.jpg); 
 }
+.table, .th, .td {
+    border: 1px solid black;
+}
+
 .saxophone {
     width: 500px; 
     height: 500px; 
