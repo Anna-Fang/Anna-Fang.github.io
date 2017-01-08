@@ -59,7 +59,7 @@ li {
     height: 1000px;
     background: url("https://i.ytimg.com/vi/2IgYGGgbN-g/maxresdefault.jpg); 
 }
-.table {
+div.table {
     font-size: 45px; 
     color: blue; 
     border: 1px solid black;
