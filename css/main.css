@@ -62,14 +62,14 @@ li {
 .saxophone {
     width: 500px; 
     height: 500px; 
-    background: url("http://l7.alamy.com/zooms/1f12783ea3314511abc1eabe1d27702e/alto-saxophone-lying-on-a-grand-piano-bak17x.jpg"); 
+    background: url("http://l7.alamy.com/zooms/1f12783ea3314511abc1eabe1d27702e/alto-saxophone-lying-on-a-grand-piano-bak17x.jpg); 
     border: blue; 
 } 
 div.content {
     width: 500px; 
     height: 500px; 
     padding: 5px;
-    
+    background: url("https://s-media-cache-ak0.pinimg.com/736x/2e/1f/6e/2e1f6e80e195915d255e4e3976a6f9f5.jpg"); 
 }
 .flute {
     width: 500px;
