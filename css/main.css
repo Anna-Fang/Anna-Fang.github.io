@@ -57,7 +57,7 @@ li {
 .main {
     width: 500px;
     height: 1000px;
-    background: url("http://www.anderson-group.com/flute/images/flute_sheet_music.jpg"); 
+    background: url("http://www.anderson-group.com/flute/images/flute_sheet_music.jpg); 
 }
 table, th, td {
     font-size: 45px; 
